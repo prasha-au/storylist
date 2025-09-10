@@ -3,8 +3,10 @@
 This project uses Gemini AI directly in the browser to create personalized TODO lists for children complete with a story and images.
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/5fa8eae2-6e3b-4883-998b-58f29787a556" width="400" />
+  <video src="https://github.com/user-attachments/assets/8c6683e3-1f94-417f-bfce-81b0323fef57" width="400" />
 </div>
+
+
 
 
 ## How it works
